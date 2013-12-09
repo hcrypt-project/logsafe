@@ -1,0 +1,1 @@
+SUBDIRS=libasevlogging include exampleProgram

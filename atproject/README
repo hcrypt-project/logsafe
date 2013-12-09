@@ -1,0 +1,15 @@
+This is the secure logging function for ASEV.
+
+Preliminaries:
+==============
+
+openssl-devel
+Apache APR 1.4.6
+Apache APR Utils 1.5.1
+Apache ActiveMQ CPP 3.5.0
+
+Make:
+=====
+
+make -> libasevlogging.so, exampleProgram
+
